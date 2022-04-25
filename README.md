@@ -1,0 +1,2 @@
+# practice
+practicing fun scripts
