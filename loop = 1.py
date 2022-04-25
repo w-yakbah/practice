@@ -1,0 +1,20 @@
+loop = 1
+while (loop < 10):
+    consider = input("Choose a thing you're considerate for... ")
+    audience = input("Chose your audience! ")
+    prec = input("Name me something insignificant yet precious? ")
+    city = input("Tell me a city you like, please. ")
+    adj = input("What qualifies this city? ")
+    prec2 = input("What is important for you? ")
+    op = input("Who is answering those questions?")
+    print ("🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩")
+    print ("Be admirative of your",consider,"- foolish", audience)
+    print ("For an mortal may it be their", prec,",")
+    print ("Be patient with",audience,"in",city)
+    print ("Where the mood is always",adj,".")
+    print ()
+    print ("You may think that",prec2,"are never remembered")
+    print ("Well, they are now.")
+    print ("                                 -",op)
+    print ("🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩")
+    loop = loop + 1
